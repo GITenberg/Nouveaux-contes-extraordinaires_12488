@@ -1,0 +1,34 @@
+_repo: Nouveaux-contes-extraordinaires_12488
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Révoil, Bénédict Henry
+    aliases:
+    - Révoil, B. H. (Bénédict Henry)
+    - Revoil, Benedict Henry
+    birthdate: 1816
+    deathdate: 1882
+    gutenberg_agent_id: '4394'
+    url: http://www.gutenberg.org/2009/agents/4394
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12488'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'North America -- Fiction'
+- !lcsh 'Short stories, French'
+- !lcsh 'South America -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Un tête-à-tête avec une Panthère -- Le Garrotte -- Une exécution
+  à San-Francisco -- L'arbre anthropophage -- La prairie en feu -- Une chasse en ballon
+  -- Empalé -- Les Gauchos -- Un combat entre ciel et terre -- Un Vaisseau-Fantôme
+  -- Le Pifferaro.
+title: Nouveaux contes extraordinaires
+url: http://www.gutenberg.org/ebooks/12488
